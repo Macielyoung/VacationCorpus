@@ -1,2 +1,2 @@
 # VacationCorpus
-This project is used to collect leave corpus from various industries.
+This project is used to collect vacation corpus from various industries.
